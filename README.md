@@ -54,8 +54,8 @@ npm install -g pnpm
 Start by cloning the repository to your local machine:
 
 ```bash
-git clone https://github.com/your-repo/webRTC-encrypted-messaging.git
-cd webRTC-encrypted-messaging
+git clone https://github.com/UnoSee/Secure-Messenger.git
+cd Secure-Messenger
 ```
 ### 2. Install dependencies
 Use pnpm to install the required dependencies:
