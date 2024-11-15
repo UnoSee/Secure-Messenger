@@ -93,6 +93,6 @@ pnpm dev
 - Only the second user can decrypt the message using the shared encryption key.
 
 ## Security Considerations
-End-to-End Encryption (E2EE) ensures that no one but the intended recipient can read the messages.
-WebRTC uses peer-to-peer communication, meaning messages don't go through centralized servers, reducing the risk of interception.
-AES-GCM provides both encryption and authentication, ensuring that the integrity of the message is maintained.
+- End-to-End Encryption (E2EE) ensures that no one but the intended recipient can read the messages.
+- WebRTC uses peer-to-peer communication, meaning messages don't go through centralized servers, reducing the risk of interception.
+- AES-GCM provides both encryption and authentication, ensuring that the integrity of the message is maintained.
